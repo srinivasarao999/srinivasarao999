@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srinivasarao999
--  I’m interested in NLP ,LLMK
+-  I’m interested in NLP ,LLM
 -  I’m currently learning DSA JAVA
 -  I’m looking to collaborate on 
 
