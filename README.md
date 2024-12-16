@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srinivasarao999
 -  I’m interested in NLP ,LLM
--  I’m currently learning DSA JAVA
+-  I’m currently learning Generative Ai
 -  I’m looking to collaborate on 
 
 <!---
