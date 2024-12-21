@@ -1,4 +1,4 @@
--  Hi, I’m srinivasarao
+-  Hi, I’m srinivasa rao
 -  I’m interested in NLP ,LLM,RAG,Langchain
 -  I’m currently learning Ai
 -  I’m looking to collaborate on 
