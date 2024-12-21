@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @srinivasarao999
--  I’m interested in NLP ,LLM
--  I’m currently learning Generative Ai
+-  Hi, I’m srinivasarao
+-  I’m interested in NLP ,LLM,RAG,Langchain
+-  I’m currently learning Ai
 -  I’m looking to collaborate on 
 
 <!---
